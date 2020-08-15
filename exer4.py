@@ -1,3 +1,4 @@
-var = 3
-print(var**2)
+a = 3
+var = a ** 2
+print(var)
 
