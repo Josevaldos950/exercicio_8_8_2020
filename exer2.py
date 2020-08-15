@@ -1,2 +1,2 @@
-var = -1
+var = 2.0
 print(var)
